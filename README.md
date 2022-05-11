@@ -8,17 +8,6 @@
 - [x] HTML5测速
 - [x] 使用v2ray最新版构建
 
-请求`/`，返回3D元素周期表
-
-![image](https://github.com/gogomi555/XXHH/blob/main/doc/1.png)
-
-请求`/speedtest/`，html5-speedtest测速页面
-
-![image](https://github.com/gogomi555/XXHH/blob/main/doc/2.png)
-
-请求`/test/`，文件下载速度测试
-
-![image](https://github.com/gogomi555/XXHH/blob/main/doc/3.png)
 
 请求`/ray`（可配置）xray websocket路径
 
