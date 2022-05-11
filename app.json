@@ -1,6 +1,6 @@
 {
-  "name": "XXHH",
-  "description": "XXHH",
+  "name": "newvvv",
+  "description": "newvvv",
   "keywords": [
     "VMESS VLESS"
   ],
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/gogomi555/XXHH",
-  "repository": "https://github.com/gogomi555/XXHH",
+  "website": "https://github.com/123book123/newvvv",
+  "repository": "https://github.com/123book123/newvvv",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
